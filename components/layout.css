@@ -1,0 +1,5 @@
+.header {
+    height:95wh;
+    background-image: url(../public/hero.jpg);
+    background-size: cover;
+}
